@@ -1,2 +1,2 @@
 # ATD Lightning Components
-Documentación para ussar y modificar componentes lightning
+Documentación para usar y modificar componentes lightning
